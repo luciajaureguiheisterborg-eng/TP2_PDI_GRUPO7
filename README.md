@@ -1,5 +1,5 @@
 
-# Trabajo Práctico 1 - Procesamiento de Imágenes  
+# Trabajo Práctico 2 - Procesamiento de Imágenes  
 **Grupo 7**
 
 ### **Integrantes**
